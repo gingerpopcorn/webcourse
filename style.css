@@ -119,9 +119,9 @@ h2 {
 }
 
 /* 各別背景圖設定 (使用臨時圖片網址) */
-.card-tops { background-image: url('https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80'); }
-.card-bottoms { background-image: url('https://images.unsplash.com/photo-1539109132314-3477524c8810?auto=format&fit=crop&w=600&q=80'); }
-.card-shoes { background-image: url('https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80'); }
+.card-tops { background-image: url('images/shirt.png'); }
+.card-bottoms { background-image: url('images/pants.png'); }
+.card-shoes { background-image: url('images/shoe.png'); }
 
 /* --- 5. 實體店鋪頁面專用 --- */
 .store-img {
