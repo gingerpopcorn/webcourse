@@ -122,6 +122,7 @@ h2 {
 .card-tops { background-image: url('images/shirt.png'); }
 .card-bottoms { background-image: url('images/pants.png'); }
 .card-shoes { background-image: url('images/shoe.png'); }
+.card-item { background-image: url('images/hat.png'); }
 
 /* --- 5. 實體店鋪頁面專用 --- */
 .store-img {
